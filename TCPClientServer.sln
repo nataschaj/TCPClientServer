@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientServer", "TCPClientServer\TCPClientServer.csproj", "{4D2BFC40-621E-426B-8297-B61998A7283B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{52348B41-846B-45F1-95E6-75F79452145F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{88667273-A63C-4EA4-BCBB-AB0C41A58DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2BFC40-621E-426B-8297-B61998A7283B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2BFC40-621E-426B-8297-B61998A7283B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2BFC40-621E-426B-8297-B61998A7283B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2BFC40-621E-426B-8297-B61998A7283B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52348B41-846B-45F1-95E6-75F79452145F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52348B41-846B-45F1-95E6-75F79452145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52348B41-846B-45F1-95E6-75F79452145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52348B41-846B-45F1-95E6-75F79452145F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88667273-A63C-4EA4-BCBB-AB0C41A58DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88667273-A63C-4EA4-BCBB-AB0C41A58DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88667273-A63C-4EA4-BCBB-AB0C41A58DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88667273-A63C-4EA4-BCBB-AB0C41A58DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1CCE49B-0013-4381-848B-97E986E29C5F}
+	EndGlobalSection
+EndGlobal
