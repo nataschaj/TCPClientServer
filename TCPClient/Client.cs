@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using ModelLib;
 using System.Net.Sockets;
 using System.IO;
-//EKSAMEN
+//til EKSAMEN
 namespace TCPClient
 {
     class Client
