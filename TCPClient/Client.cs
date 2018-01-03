@@ -15,8 +15,8 @@ namespace TCPClient
         {
             var car = new Car();
 
-            car.Color = "Toyota";
-            car.Model = "Hybrid";
+            car.Color = "Sort";
+            car.Model = "Toyota Hybrid";
             car.RegNo = "1234DCF";
 
 
